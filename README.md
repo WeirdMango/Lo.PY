@@ -9,6 +9,3 @@ Currently mango does not allow public use without authorization (submit an issue
 LO.PY's goal is simple, make a terminal application that you can add a music file on, and it returns you a fitted Lofi remix version
 This plan may change but this is the plan for now
 (Last changed on 20/1/20)
-
-# WHY THIS?
-Well i just wanted to listen to a lofi "Mr Bad Guy - Freddie Mercury"...
